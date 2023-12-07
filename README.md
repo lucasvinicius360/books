@@ -29,9 +29,28 @@ O projeto utiliza as seguintes dependências:
 - **`dio`**: Uma poderosa biblioteca para fazer requisições HTTP.
 - **`vocsy_epub_viewer`**: Biblioteca para visualização de livros EPUB.
 
+## Observação
+
+- **`O projeto foi idealizado apenas para as plataformas android e ios`**:
+
 ## Como Usar
 
 1. Clone este repositório:
 
 ```bash
 git clone https://github.com/lucasvinicius360/books.git
+
+
+2. Navegue até o diretório do projeto:
+
+    * cd epub_viewer_app
+
+3. Instale as dependências:
+
+    * flutter pub get
+
+4. Execute o aplicativo:
+
+    flutter run
+`
+
