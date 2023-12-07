@@ -37,6 +37,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   http: ^1.1.2
   vocsy_epub_viewer: ^2.0.0
+  dio: ^5.4.0
+  permission_handler: ^11.1.0
+  device_info_plus: ^9.1.1
   # vocsy_epub_viewer: latest_version
   # epub_view: ^3.2.0
 
